@@ -1,14 +1,12 @@
 {
   "logo": "logo-1793965416872.png",
   "ffBanner": null,
-  "ffPackages": null,
   "banners": [
     "banner-1794026792907-7673.jpg",
     "default:Banner 1.jpg",
     "default:Banner 2.jpg",
     "default:Banner 3.jpg",
     "banner-1794026799697-3736.jpg",
-    "banner-1794026807470-7015.jpg",
     "banner-1794026818952-109.jpg"
   ],
   "quick": [
@@ -24,5 +22,8 @@
       "label": "YouTube",
       "url": "https://youtube.com/@allahorpothefireeso2?si=gB2XDq5R32q74dxr"
     }
-  ]
+  ],
+  "images": null,
+  "prod": null,
+  "texts": null
 }
